@@ -1,0 +1,5 @@
+#summary Discussion page
+
+= Discussion =
+
+Please feel free to discuss about my API on this page.
