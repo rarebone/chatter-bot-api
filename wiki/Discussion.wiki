@@ -2,4 +2,4 @@
 
 = Discussion =
 
-Please feel free to discuss about my API on this page.
+Please feel free to discuss about my API (feature request or bug) using the comment section on this page.
